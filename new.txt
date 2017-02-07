@@ -1,0 +1,2 @@
+# A new file for bash profile stuff.
+# Add some documentation and some more stuff.
