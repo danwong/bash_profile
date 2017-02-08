@@ -43,8 +43,8 @@ set ruler
 set showcmd
 
 " Change timeout options
-set ttimeoutlen=100
-set timeoutlen=3000
+"set ttimeoutlen=100
+"set timeoutlen=3000
 
 " Makes it easier to more around long lines
 noremap <Up> g<Up>
