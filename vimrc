@@ -6,6 +6,9 @@ set nomodeline
 syntax on
 set nohls
 
+" No end of line character"
+set fileformats+=dos
+
 " If not all colors are enabled, enable all colors
 if &t_Co < 256
    set t_Co=256
