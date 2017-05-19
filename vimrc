@@ -1,9 +1,17 @@
+" Vim-plug stuff."
+call plug#begin('~/.vim/plugged')
+
+Plug 'https://github.com/justinmk/vim-syntax-extra.git'
+call plug#end()
+
+
 " Misc vim stuff
 set nocompatible
 set nomodeline
 
 " Color stuff
 syntax on
+color c
 set nohls
 
 " No end of line character"
