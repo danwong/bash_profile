@@ -5,7 +5,7 @@ export CLICOLOR=1
 #export LSCOLORS=ExFxBxDxCxegedabagacad
 #export LSCOLORS=exfxcxdxbxegedabagacad
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
-
+alias tex='xelatex'
 
 alias ls='ls -GFh'
 
